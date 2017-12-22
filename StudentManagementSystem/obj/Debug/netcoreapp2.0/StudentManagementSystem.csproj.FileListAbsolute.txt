@@ -1,0 +1,12 @@
+C:\Users\dtm\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp2.0\StudentManagementSystem.deps.json
+C:\Users\dtm\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp2.0\StudentManagementSystem.runtimeconfig.json
+C:\Users\dtm\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp2.0\StudentManagementSystem.runtimeconfig.dev.json
+C:\Users\dtm\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp2.0\StudentManagementSystem.dll
+C:\Users\dtm\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp2.0\StudentManagementSystem.pdb
+C:\Users\dtm\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp2.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dtm\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\dtm\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp2.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\dtm\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp2.0\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\dtm\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp2.0\StudentManagementSystem.dll
+C:\Users\dtm\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp2.0\StudentManagementSystem.pdb
+C:\Users\dtm\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp2.0\StudentManagementSystem.csprojResolveAssemblyReference.cache
